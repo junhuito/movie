@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Figma
+Click here: [link](https://www.figma.com/file/5GQUAiAPNJaZy7EmkRppcY/Movie-Streaming-App-(Community)?type=design&node-id=0-1&mode=design&t=LTKTdjyvrQQo4dBS-0)
